@@ -5,7 +5,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/aninhamtts).
 
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia 💻
 
 <div style="display: inline_block">
    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />

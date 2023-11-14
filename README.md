@@ -4,6 +4,11 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/luizaa2346)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/aninhamtts)
 
+<div style="width: 200px;">
+<a href="https://github.com/AnaLuizamts/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/AnaLuizamts&langs_count=8" alt="Top Langs" />
+</a>
+</div> 
 
 ## Tecnologias que eu uso no meu dia 💻
 

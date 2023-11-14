@@ -5,7 +5,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/aninhamtts)
 
 <div style="width: 200px;">
-<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
+<a href="https:/AnaLuizamts/github.com//github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
 </a>
 </div>
